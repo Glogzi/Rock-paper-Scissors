@@ -1,0 +1,15 @@
+E:\Krzysiek\Pulpit\rock paper scissors\bin\Debug\net7.0\rock paper scissors.exe
+E:\Krzysiek\Pulpit\rock paper scissors\bin\Debug\net7.0\rock paper scissors.deps.json
+E:\Krzysiek\Pulpit\rock paper scissors\bin\Debug\net7.0\rock paper scissors.runtimeconfig.json
+E:\Krzysiek\Pulpit\rock paper scissors\bin\Debug\net7.0\rock paper scissors.dll
+E:\Krzysiek\Pulpit\rock paper scissors\bin\Debug\net7.0\rock paper scissors.pdb
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.csproj.AssemblyReference.cache
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.GeneratedMSBuildEditorConfig.editorconfig
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.AssemblyInfoInputs.cache
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.AssemblyInfo.cs
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.csproj.CoreCompileInputs.cache
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.dll
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\refint\rock paper scissors.dll
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.pdb
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\rock paper scissors.genruntimeconfig.cache
+E:\Krzysiek\Pulpit\rock paper scissors\obj\Debug\net7.0\ref\rock paper scissors.dll
